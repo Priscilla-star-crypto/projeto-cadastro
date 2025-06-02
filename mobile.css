@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+main{
+      background-image:url(imagens/pawel-nolbert-xe-ss5Tg2mo-unsplash.jpg) ;
+      background-position: bottom;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+
+.foto{
+    display: none;
+}
+
+.formulario h2{
+    display: none;
+}
+
+.formulario img{
+    width: 60px;
+    height: 70px;
+    position: absolute;
+    bottom: 260px;
+    left: 190px;
+    padding: 10px;
+    display: block;
+}
+
+form h1{
+    display: none;
+}
+
+.formulario h3{
+    display: block;
+    color: white;
+    font-size: 1.7em;
+}
+
+.formulario span{
+    color: rgb(124, 119, 199);
+    font-size: 1.3em;
+}
+
+.formulario{
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(179, 182, 218, 0.911);
+  
+}
+
+.esqueci{
+       border-bottom: 1px solid rgb(146, 119, 211);
+
+}
+
+.btn a{
+    color:rgb(119, 119, 230) ;
+}
+
